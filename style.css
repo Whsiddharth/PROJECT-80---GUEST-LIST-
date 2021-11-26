@@ -1,0 +1,48 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+body{
+    font-family: dongle;
+    background-color: #BAC1C4;
+    color: white;
+    text-align: center;
+}
+body{
+    font-size: 25px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+h2{
+    font-size: 50px;
+}
+a:hover{
+    text-decoration: underline;
+}
+input{
+    border-width: 0px;
+    border-radius: 5px;
+    font-family: dongle;
+}
+button{
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: dongle;
+    font-size: 25px;
+    padding-left: 5px;
+    padding-right: 5px;   
+}
